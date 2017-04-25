@@ -1,8 +1,8 @@
 {
-    "name": "azatoth/php-pgettext",
+    "name": "textalk/php-pgettext",
     "description": "Extension of gettext functions for PHP like pgettext, dpgettext, etc.",
     "keywords": ["library", "pgettext", "gettext"],
-    "homepage": "https://github.com/azatoth/php-pgettext",
+    "homepage": "https://github.com/Textalk/php-pgettext",
     "type": "library",
     "license": "MIT",
     "authors": [
